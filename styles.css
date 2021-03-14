@@ -18,13 +18,13 @@
 }
 
 .player {
-  background-color: crimson;
+  background-color: slateblue;
 }
 
 .laser {
-  background-color: darkgoldenrod;
+  background-color: red;
 }
 
 .boom {
-  background-color: red;
+  background-color: darkgoldenrod;
 }
